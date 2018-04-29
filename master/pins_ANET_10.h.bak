@@ -69,7 +69,7 @@
       #define ENCODER_STEPS_PER_MENU_ITEM 1
     #endif
     #ifndef ENCODER_PULSES_PER_STEP
-      #define ENCODER_PULSES_PER_STEP 1
+      #define ENCODER_PULSES_PER_STEP 4
     #endif
     
 	#elif ENABLED(U8GLIB_ST7920)
@@ -102,7 +102,7 @@
 			#define ENCODER_STEPS_PER_MENU_ITEM 1
 		#endif
 		#ifndef ENCODER_PULSES_PER_STEP
-			#define ENCODER_PULSES_PER_STEP 4
+			#define ENCODER_PULSES_PER_STEP 1
 		#endif
 	#endif
 
