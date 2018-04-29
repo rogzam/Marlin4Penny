@@ -35,7 +35,7 @@
   /**
    * Marlin release version identifier
    */
-  #define SHORT_BUILD_VERSION "SkyNet3D-V2.3.2"
+  #define SHORT_BUILD_VERSION "Marlin4Penny"
 
   /**
    * Verbose version identifier which should contain a reference to the location
@@ -68,7 +68,7 @@
   /**
    * Defines a generic printer name to be output to the LCD after booting Marlin.
    */
-  #define MACHINE_NAME "SkyNet3D"
+  #define MACHINE_NAME "Penny"
 
   /**
    * The SOURCE_CODE_URL is the location where users will find the Marlin Source
