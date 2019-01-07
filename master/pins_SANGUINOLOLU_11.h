@@ -20,10 +20,6 @@
  *
  */
 
-/**
- * Sanguinololu board pin assignments
- */
-
 #if !defined(__AVR_ATmega644P__) && !defined(__AVR_ATmega1284P__)
   #error "Oops!  Make sure you have 'Sanguino' selected from the 'Tools -> Boards' menu."
 #endif
@@ -215,4 +211,3 @@
   #define SD_DETECT_PIN         -1
 
 #endif // MAKRPANEL
-
